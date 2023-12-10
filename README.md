@@ -1,0 +1,2 @@
+# SmartContract
+Lottery Smart Contract
